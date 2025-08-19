@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" 
+  <img src="https://raw.githubusercontent.com/sriramavivek/sriramavivek/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" 
        alt="Profile Banner" 
        width="800">
 </p>
@@ -45,3 +45,4 @@
 ---
 
 ✨ *Thanks for visiting my profile!* ✨
+
